@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="components/client/src/main/java"/>
+	<classpathentry kind="src" path="components/client/src/main/resources"/>
+	<classpathentry kind="src" path="components/client/test/java"/>
+	<classpathentry kind="src" path="components/framework/src/main/java"/>
+	<classpathentry kind="src" path="components/framework/src/main/resources"/>
+	<classpathentry kind="src" path="components/framework/src/test/java"/>
+	<classpathentry kind="src" path="components/framework/src/test/resources"/>
+	<classpathentry kind="src" path="components/bootstrap/src/main/java"/>
+	<classpathentry kind="src" path="components/utils/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
